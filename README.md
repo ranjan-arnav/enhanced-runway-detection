@@ -150,7 +150,19 @@ results = analyze_batch_images_fast(test_images, gt_folder)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**⚠️ PROPRIETARY LICENSE - ALL RIGHTS RESERVED**
+
+This project is proprietary software owned by **Arnav Ranjan**. All rights reserved.
+
+**🚫 RESTRICTIONS:**
+- **NO MODIFICATION** - Code modification is strictly prohibited
+- **NO REDISTRIBUTION** - Cannot be shared or distributed  
+- **NO COMMERCIAL USE** - Commercial use forbidden without permission
+- **VIEW ONLY** - Available for educational viewing purposes only
+
+See the [LICENSE](LICENSE) file for complete terms and conditions.
+
+For licensing inquiries or permissions, please contact the author.
 
 ## 🙏 Acknowledgments
 

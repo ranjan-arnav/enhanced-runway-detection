@@ -1,6 +1,32 @@
 # Contributing to Enhanced Runway Detection System
 
-Thank you for your interest in contributing! This document provides guidelines for contributing to the project.
+⚠️ **NOTICE: This project is under PROPRIETARY LICENSE**
+
+**🚫 CONTRIBUTIONS NOT ACCEPTED**
+
+This repository is proprietary software owned by Arnav Ranjan. Due to the restrictive license:
+
+- **NO CODE MODIFICATIONS** are permitted
+- **NO PULL REQUESTS** will be accepted  
+- **NO COLLABORATIVE DEVELOPMENT** is allowed
+- **NO DERIVATIVE WORKS** can be created
+
+## 📖 View-Only Repository
+
+This repository is shared for **educational and portfolio purposes only**. You may:
+- ✅ View and study the code for learning
+- ✅ Reference the techniques in academic discussions
+- ✅ Use as inspiration for your own separate projects
+
+## 📞 Contact for Licensing
+
+If you're interested in:
+- Commercial licensing
+- Code modifications
+- Collaboration opportunities
+- Academic partnerships
+
+Please contact **Arnav Ranjan** directly for licensing inquiries.
 
 ## 🚀 Getting Started
 

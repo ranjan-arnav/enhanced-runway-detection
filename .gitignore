@@ -1,0 +1,225 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Custom additions for this project
+
+# Large dataset directories
+1920x1080/
+640x360/
+labels/
+
+# Personal files
+*.pdf
+*.jpg
+*.jpeg
+*.zip
+*.txt.bak
+
+# Personal documents and tickets
+bus ticket.pdf
+Gmail*.pdf
+mit blr invite.jpg
+OUR PS.pdf
+cutiekesaathphotu.zip
+yoyoyoyo.zip
+zip bc.zip
+
+# Temporary and cache files
+*.png.bak
+file_*.png
+image.png
+demo.txt
+
+# Model files (comment out if you want to include them)
+models/*.h5
+models/*.keras
+models/*.pb
+
+# Generated analysis results (exclude all)
+exact_procedure_analysis/
+phase2_results/
+plots/
+specialized_analysis/
+corrected_iou_analysis/
+iou_anchor_analysis/
+labeled_edges/
+
+# CSV results (keep samples, exclude large batches)
+*batch_results_*.csv
+*test_images_*.csv
+enhanced_exact_procedure_analysis_*.csv
+
+# Keep these sample CSVs
+!user_format_results.csv
+!*sample*.csv
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.temp
+*~
+*.orig
+
+# Log files
+*.log
+debug_*.png
+data_verification_samples.png
+debug_image_processing.png
+debug_model_prediction.png
+fast_validation_predictions.png
+runway_label_creation.png
+test_flight_sim_style_labeled.png
+project_summary_visualization.png
+LPPD30_2_7FNLImage7_labeled.png
+
+# Virtual environment
+.venv/
+venv/
+
+# Frontend build files (if applicable)
+frontend/node_modules/
+frontend/build/
+frontend/dist/

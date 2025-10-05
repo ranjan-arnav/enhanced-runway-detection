@@ -1,5 +1,26 @@
 # 🛬 Enhanced Runway Detection & Analysis System ✈️
 
+> **🚨 PROPRIETARY SOFTWARE - COPYRIGHT PROTECTED 🚨**  
+> **© 2025 Arnav Ranjan. All Rights Reserved.**  
+> **⚠️ VIEWING ONLY - NO DOWNLOAD/CLONE/MODIFY PERMITTED ⚠️**
+
+---
+
+## 🚫 **IMPORTANT LEGAL NOTICE**
+
+**THIS REPOSITORY IS FOR DEMONSTRATION PURPOSES ONLY**
+
+- 🔒 **PROPRIETARY LICENSE** - All rights reserved
+- ❌ **NO CLONING** - Repository cloning is unauthorized 
+- ❌ **NO DOWNLOADING** - Code download is prohibited
+- ❌ **NO MODIFICATIONS** - Code changes are illegal
+- ❌ **NO COMMERCIAL USE** - Business use requires permission
+- 📖 **VIEW ONLY** - Educational viewing permitted only
+
+**[📋 READ FULL ANTI-PIRACY NOTICE](ANTI_PIRACY_NOTICE.md)**
+
+---
+
 A sophisticated computer vision system for runway detection, segmentation, and geometric analysis in aerial/satellite imagery using deep learning and advanced image processing techniques.
 
 ## 🌟 Features

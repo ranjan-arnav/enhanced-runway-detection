@@ -2,6 +2,17 @@
 """
 🚀 ENHANCED Exact Procedure Implementation: Special handling for challenging images
 Specifically designed to handle fragmented runway detections like LSZH34
+
+Copyright (c) 2025 Arnav Ranjan. All Rights Reserved.
+PROPRIETARY AND CONFIDENTIAL - UNAUTHORIZED USE PROHIBITED
+
+This software is protected by copyright law and international treaties.
+Unauthorized reproduction or distribution of this software, or any portion 
+of it, may result in severe civil and criminal penalties, and will be 
+prosecuted to the maximum extent possible under law.
+
+NOTICE: This code is provided for VIEWING PURPOSES ONLY.
+Any use, modification, distribution, or reverse engineering is strictly prohibited.
 """
 
 import numpy as np
